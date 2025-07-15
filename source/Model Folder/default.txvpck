@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<nodeSet  version="1.1">
+	<view uin="V574ng9eth3dgn7735dct">
+		<property name="$defaultDiagram" value="true"/>
+		<property name="$metaclass" value="Package Diagram"/>
+		<reference referencedUin="jdt:e_class:src:Gestione">
+			<property name="bounds" value="915,657,152,371"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="jdt:l_ast:src:Gestione:highScore">
+				<property name="sourceAnchor" value="973,662"/>
+				<property name="targetAnchor" value="973,359"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+			<reference referencedUin="jdt:l_impl:src:Gestione:Endable">
+				<property name="sourceAnchor" value="1072,720"/>
+				<property name="targetAnchor" value="1277,280"/>
+				<property name="location_set_by_user" value="true"/>
+				<property name="bendpoints" value="1277,384"/>
+				<property name="smooth_bendpoints" value="1277,384"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:Gestione:giocatore">
+				<property name="sourceAnchor" value="1044,662"/>
+				<property name="targetAnchor" value="1108,419"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:Gestione:gioco">
+				<property name="sourceAnchor" value="1070,1021"/>
+				<property name="targetAnchor" value="1380,1021"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Partita">
+			<property name="bounds" value="1377,624,134,436"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="jdt:l_ast:src:Partita:tentativo">
+				<property name="sourceAnchor" value="1380,1045"/>
+				<property name="targetAnchor" value="1043,1549"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+			<reference referencedUin="jdt:l_impl:src:Partita:Soundable">
+				<property name="sourceAnchor" value="1399,627"/>
+				<property name="targetAnchor" value="836,280"/>
+				<property name="location_set_by_user" value="true"/>
+				<property name="bendpoints" value="836,338"/>
+				<property name="smooth_bendpoints" value="836,338"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:Partita:tabellone">
+				<property name="sourceAnchor" value="1380,1045"/>
+				<property name="targetAnchor" value="820,921"/>
+				<property name="location_set_by_user" value="true"/>
+				<property name="bendpoints" value="912,1047"/>
+				<property name="smooth_bendpoints" value="912,1047"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:Partita:opz">
+				<property name="sourceAnchor" value="1487,1065"/>
+				<property name="targetAnchor" value="1487,1503"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:Partita:giocatore">
+				<property name="sourceAnchor" value="1418,627"/>
+				<property name="targetAnchor" value="1227,357"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:Partita:timer">
+				<property name="sourceAnchor" value="1458,627"/>
+				<property name="targetAnchor" value="1458,379"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:Partita:ender">
+				<property name="sourceAnchor" value="1439,627"/>
+				<property name="targetAnchor" value="1307,280"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:GUIgestione">
+			<property name="bounds" value="353,598,135,423"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="jdt:e_class:src:GUIgestione.Ascoltatore">
+				<property name="bounds" value="-12,0,138,144"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:GUIgestione:lnkSfondo">
+				<property name="sourceAnchor" value="460,1091"/>
+				<property name="targetAnchor" value="460,1542"/>
+			</reference>
+			<reference referencedUin="jdt:l_dpn:src:GUIgestione:Dependency_Link2">
+				<property name="location_set_by_user" value="true"/>
+				<property name="sourceAnchor" value="462,603"/>
+				<property name="targetAnchor" value="462,548"/>
+				<reference referencedUin="label:label:jdt:l_dpn:src:GUIgestione:Dependency_Link2">
+					<property name="bounds" value="432,567,27,17"/>
+				</reference>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:GUIgestione:tabula">
+				<property name="sourceAnchor" value="492,1026"/>
+				<property name="targetAnchor" value="587,1313"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+			<reference referencedUin="jdt:l_dpn:src:GUIgestione:Dependency_Link">
+				<property name="location_set_by_user" value="true"/>
+				<property name="sourceAnchor" value="358,990"/>
+				<property name="targetAnchor" value="133,1470"/>
+				<reference referencedUin="label:label:jdt:l_dpn:src:GUIgestione:Dependency_Link">
+					<property name="weight" value="0.4883847119950348"/>
+					<property name="bounds" value="218,1207,27,17"/>
+				</reference>
+			</reference>
+			<reference referencedUin="jdt:l_impl:src:GUIgestione:Soundable">
+				<property name="sourceAnchor" value="492,699"/>
+				<property name="targetAnchor" value="787,279"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+			<reference referencedUin="jdt:l_dpn:src:GUIgestione:Dependency_Link1">
+				<property name="location_set_by_user" value="true"/>
+				<property name="sourceAnchor" value="384,1026"/>
+				<property name="targetAnchor" value="384,1452"/>
+				<reference referencedUin="label:label:jdt:l_dpn:src:GUIgestione:Dependency_Link1">
+					<property name="bounds" value="387,1325,27,17"/>
+					<property name="weight" value="0.74217563487068"/>
+				</reference>
+			</reference>
+			<reference referencedUin="jdt:e_method:src:GUIgestione.GUIgestione:GUIgestione~QGestione;">
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:GUIgestione:consob">
+				<property name="sourceAnchor" value="355,844"/>
+				<property name="targetAnchor" value="258,844"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:GUIgestione:gest">
+				<property name="sourceAnchor" value="492,699"/>
+				<property name="targetAnchor" value="920,699"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Suggerimento">
+			<property name="bounds" value="1167,676,120,332"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Giocatore">
+			<property name="bounds" value="1072,82,150,332"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="jdt:l_ast:src:Giocatore:combinazione">
+				<property name="sourceAnchor" value="1122,419"/>
+				<property name="targetAnchor" value="1024,1549"/>
+				<property name="location_set_by_user" value="true"/>
+				<property name="bendpoints" value="1122,847"/>
+				<property name="smooth_bendpoints" value="1122,847"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:ServizioSveglia">
+			<property name="bounds" value="232,194,130,108"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Clock">
+			<property name="bounds" value="1402,123,148,251"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="jdt:l_ast:src:Clock:user">
+				<property name="sourceAnchor" value="1405,184"/>
+				<property name="targetAnchor" value="367,206"/>
+				<property name="location_set_by_user" value="true"/>
+				<property name="bendpoints" value="1181,40,420,40"/>
+				<property name="smooth_bendpoints" value="1181,40,420,40"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:TimerUpdater">
+			<property name="bounds" value="88,168,94,160"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="jdt:l_ast:src:TimerUpdater:timer">
+				<property name="sourceAnchor" value="187,216"/>
+				<property name="targetAnchor" value="1405,155"/>
+				<property name="location_set_by_user" value="true"/>
+				<property name="bendpoints" value="420,40,1160,40"/>
+				<property name="smooth_bendpoints" value="420,40,1160,40"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:TimerUpdater:frame">
+				<property name="sourceAnchor" value="141,333"/>
+				<property name="targetAnchor" value="161,571"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Endable">
+			<property name="bounds" value="1242,195,90,80"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="label:$name:jdt:e_class:src:Endable">
+				<property name="bounds" value="1271,290,42,17"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Console">
+			<property name="bounds" value="124,566,129,540"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="jdt:l_ast:src:Console:rubrica">
+				<property name="sourceAnchor" value="247,571"/>
+				<property name="targetAnchor" value="247,307"/>
+			</reference>
+			<reference referencedUin="property:e_property:jdt=e_class=src=Console:attenzione">
+				<property name="bounds" value="6,1,99,13"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:Console:tabula">
+				<property name="sourceAnchor" value="257,924"/>
+				<property name="targetAnchor" value="587,1313"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+			<reference referencedUin="jdt:l_impl:src:Console:Soundable">
+				<property name="sourceAnchor" value="256,579"/>
+				<property name="targetAnchor" value="791,280"/>
+				<property name="location_set_by_user" value="true"/>
+				<property name="bendpoints" value="791,407"/>
+				<property name="smooth_bendpoints" value="791,407"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:Console:gioco">
+				<property name="sourceAnchor" value="256,579"/>
+				<property name="targetAnchor" value="1380,652"/>
+				<property name="location_set_by_user" value="true"/>
+				<property name="bendpoints" value="820,581"/>
+				<property name="smooth_bendpoints" value="820,581"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:Console:upd">
+				<property name="sourceAnchor" value="155,571"/>
+				<property name="targetAnchor" value="134,333"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:SegretoPanel">
+			<property name="bounds" value="538,749,123,186"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="jdt:l_ast:src:SegretoPanel:lnkGrafica">
+				<property name="sourceAnchor" value="620,940"/>
+				<property name="targetAnchor" value="620,1316"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Soundable">
+			<property name="bounds" value="764,195,90,80"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="label:$name:jdt:e_class:src:Soundable">
+				<property name="bounds" value="787,290,54,17"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Tabellone">
+			<property name="bounds" value="681,728,134,228"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="jdt:l_ast:src:Tabellone:grafica">
+				<property name="sourceAnchor" value="695,961"/>
+				<property name="targetAnchor" value="695,1316"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:Tabellone:tentativi">
+				<property name="sourceAnchor" value="794,961"/>
+				<property name="targetAnchor" value="1007,1549"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:Tabellone:incognita">
+				<property name="sourceAnchor" value="790,961"/>
+				<property name="targetAnchor" value="988,1549"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:Tabellone:sugg">
+				<property name="sourceAnchor" value="820,930"/>
+				<property name="targetAnchor" value="1169,986"/>
+				<property name="location_set_by_user" value="true"/>
+				<property name="bendpoints" value="909,1043,1083,1043"/>
+				<property name="smooth_bendpoints" value="909,1043,1083,1043"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:GiocoOpzioni">
+			<property name="bounds" value="426,45,166,498"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="jdt:l_ast:src:GiocoOpzioni:gest">
+				<property name="sourceAnchor" value="597,392"/>
+				<property name="targetAnchor" value="920,699"/>
+			</reference>
+			<reference referencedUin="jdt:l_ast:src:GiocoOpzioni:cojocojo">
+				<property name="sourceAnchor" value="597,253"/>
+				<property name="targetAnchor" value="1077,253"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Grafica">
+			<property name="bounds" value="569,1311,130,472"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="jdt:l_ast:src:Grafica:soluzione">
+				<property name="sourceAnchor" value="704,1589"/>
+				<property name="targetAnchor" value="971,1589"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:HighScore">
+			<property name="bounds" value="904,142,118,212"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Regole">
+			<property name="bounds" value="5,1465,136,176"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Singola">
+			<property name="bounds" value="1317,1533,116,105"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="jdt:l_gnt:src:Singola:Partita">
+				<property name="sourceAnchor" value="1408,1536"/>
+				<property name="targetAnchor" value="1408,1065"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Combinazione">
+			<property name="bounds" value="968,1546,104,293"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Info">
+			<property name="bounds" value="271,1447,135,306"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Sfondo">
+			<property name="bounds" value="426,1538,123,95"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Punteggi">
+			<property name="bounds" value="624,208,135,173"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+			<reference referencedUin="jdt:l_ast:src:Punteggi:high">
+				<property name="sourceAnchor" value="718,213"/>
+				<property name="targetAnchor" value="909,166"/>
+				<property name="location_set_by_user" value="true"/>
+				<property name="bendpoints" value="814,30"/>
+				<property name="smooth_bendpoints" value="814,30"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:StartUp">
+			<property name="bounds" value="161,1546,90,80"/>
+			<property name="location_set_by_user" value="true"/>
+			<reference referencedUin="jdt:l_dpn:src:StartUp:Dependency_Link">
+				<property name="location_set_by_user" value="true"/>
+				<property name="sourceAnchor" value="222,1551"/>
+				<property name="targetAnchor" value="366,1026"/>
+				<reference referencedUin="label:label:jdt:l_dpn:src:StartUp:Dependency_Link">
+					<property name="weight" value="0.8160079487010854"/>
+					<property name="bounds" value="300,1123,31,17"/>
+				</reference>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Opzioni">
+			<property name="bounds" value="1453,1498,118,176"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:Tester">
+			<property name="bounds" value="1301,5,90,80"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="collapsedCompartments" value="Operation"/>
+		</reference>
+	</view>
+</nodeSet>
