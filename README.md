@@ -48,6 +48,10 @@ Feel free to reach out if you plan to extend it or include it somewhere else, I 
 
 Copyright (C) 2006, Assimazza - GC
 
+# Screenshot
+
+![Masterminchia screenshot](/Screenshot.png "Masterminchia")
+
 # Italiano
 
 Questo progetto e' un progettino universitario sviluppato per il corso di laure triennale di Ingegneria Informatica. Il corso era pensato per insegnare a sviluppare GUI in Java 5.
