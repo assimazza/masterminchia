@@ -11,6 +11,8 @@ The project is in Italian only and it is complete, it runs and works if you have
 
 Although the project is complete, the assets are not packed into the JAR file. Just leave them in the main folder as they are.
 
+The release can be found in the `release_2006` folder alongside with the documentation (in Italian). The source is available in the `source` folder, inclusive of the compiled `.class` files.
+
 To run the game, either run the batch file or give the following from a command prompt:
 
 ```
@@ -38,9 +40,13 @@ For this reason, I don't consider it fully finished but it is playable. I apprec
 
 ## License and others
 
-The game is released under GPL v3, you are free to extend it and fork it however you like!
+The game is released under GPL v3, you are free to extend it and fork it however you like (as long as the software stays as free software)!
 
 The game has also some insider jokes dated back to uni, you might not be able to get them unfortunately.
+
+Feel free to reach out if you plan to extend it or include it somewhere else, I will be happy support as I can given my time constraints.
+
+Copyright (C) 2006, Assimazza - GC
 
 # Italiano
 
@@ -51,6 +57,8 @@ Il gioco e' funzionante e localizzato esclusivamente in italiano. Richiede la JR
 Gli asset (le immagini) del gioco non sono state include nell'archivio JAR, basta lasciarle nella cartella principale dove si trova anche il JAR e non toccarle.
 
 Ci sono diversi JAR con piccole varianti del gioco, perlopiu' limitate alla sezione <em>Informazioni su...</em>, la dinamica di gioco non cambia tra le versioni.
+
+Gli eseguibili ed gli asset sono disponibili nella cartella `release_2006` insieme alla documentazione. Nella cartella `source` ci sono i sorgenti, inclusi i `.class` compilati.
 
 Per avviare il gioco, si puo' usare il file bat oppure dare il seguente comando:
 
@@ -71,6 +79,10 @@ L'IA del computer doveva essere molto semplice, un semplice automi a stati finit
 
 ## Licenza e altro
 
-Il codice e' rilasciato con licenza GPL v3, ognuno e' libero di estenderlo o di farne una fork a piacere.
+Il codice e' rilasciato con licenza GPL v3, ognuno e' libero di estenderlo o di farne una fork a piacere nei limiti previsti da una licenza software libero.
 
-Ci sono diversi scherzi dentro il gioco, tutti relativi a persone interne all;universita' e purtroppo non sara' possibile tracciarne il significato
+Ci sono diversi scherzi dentro il gioco, tutti relativi a persone interne all;universita' e purtroppo non sara' possibile tracciarne il significato.
+
+Sono a disposizione per qualsiasi altra cosa.
+
+Copyright (C) 2006, Assimazza - GC
